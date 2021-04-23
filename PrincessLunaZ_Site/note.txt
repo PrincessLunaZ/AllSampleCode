@@ -1,1 +1,3 @@
 This is the site that me and <https://github.com/nosnowowie93347 have been working on together>
+This site will have a .zip file (for downloading), and the extracted copy in this folder (for viewing)
+Enjoy!

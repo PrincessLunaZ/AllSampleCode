@@ -1,0 +1,9 @@
+This is where I have some Python projects. You will not need any external libraries, unless I add a requirements.txt in that folder. 
+
+As a reminder, the command to install all the required python libraries are below, depending on OS:
+
+Windows:
+pip install -r requirements.txt
+
+MacOS/Linux/Android (via Termux)
+pip3 install -r requirements.txt
